@@ -7,7 +7,7 @@
 >  ### Consider creating a new directory for new script categories
 >  ### Your files will be indexed on the README.md incase you can't do that yourself
     
->>>    PROST TO AUTOMATION
+
 
 ## Table of contents
 
@@ -16,3 +16,4 @@ System | Description
 [Bash](./bash/) | Bash scripts
 [Python](./bash/) | Python scripts
 
+>>>    Thank you and PROST TO AUTOMATION
